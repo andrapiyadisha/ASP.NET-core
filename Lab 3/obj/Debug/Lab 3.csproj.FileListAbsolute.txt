@@ -1,0 +1,7 @@
+C:\Users\HP\OneDrive\Desktop\.Net\Lab 3\bin\Debug\Lab 3.exe.config
+C:\Users\HP\OneDrive\Desktop\.Net\Lab 3\bin\Debug\Lab 3.exe
+C:\Users\HP\OneDrive\Desktop\.Net\Lab 3\bin\Debug\Lab 3.pdb
+C:\Users\HP\OneDrive\Desktop\.Net\Lab 3\obj\Debug\Lab 3.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\.Net\Lab 3\obj\Debug\Lab 3.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\.Net\Lab 3\obj\Debug\Lab 3.exe
+C:\Users\HP\OneDrive\Desktop\.Net\Lab 3\obj\Debug\Lab 3.pdb
